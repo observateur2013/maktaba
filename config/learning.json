@@ -1,0 +1,8 @@
+{
+  "pointsPhase1": 10,
+  "pointsPhase2": 4,
+  "unlockThresholdPercent": 90,
+  "verseUnlockThresholdPercent": 70,
+  "minReadingSeconds": 10,
+  "geminiModel": "claude-sonnet-5"
+}
